@@ -1,0 +1,59 @@
+nav {
+    background-color: #333;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  li {
+    float:left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.img_dag{
+    float: right;
+    width: 23%;
+    height: 23%;
+  }
+  .img_kazi{
+    float:right;
+    width: 28%;
+    height: 28%;
+  }
+  .img_maju{
+    float: right;
+    width: 28%;
+    height: 32%;
+  }
+  .img_jor{
+    float: right;
+    width: 28%;
+    height: 28%;
+  }
+  .img_dib{
+    float: right;
+    width: 28%;
+    height: 28%s;
+  }
+  h6{
+    font-size: larger;
+  }
+  h3{
+    font-size: larger;
+  }
+  h4{
+    font-size: larger;
+  }
+  h5{
+    font-size: larger;
+  }
